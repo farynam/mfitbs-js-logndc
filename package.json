@@ -1,0 +1,12 @@
+{
+  "name": "mfitbs-js-logndc",
+  "version": "1.0.0",
+  "description": "Example for https://js.devninja.pl and https://js.devninja.blog",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Faryna",
+  "license": "ISC"
+}
